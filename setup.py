@@ -6,8 +6,8 @@ with open('README.md') as f:
     readme = f.read()
 
 setup(
-    name='j40_model',
-    version='0.1.0',
+    name='j40model',
+    version='1.0.0',
     description='Base simulation and optimization modules for J40 tool',
     long_description=readme,
     author='Miguel Heleno',
